@@ -20,7 +20,7 @@ let start = (route) => {
 
     http.createServer( onRequest ).listen(8888);
 
-    console.log('Server sunning at http://127.0.0.1:8888');
+    console.log('Server is running at http://127.0.0.1:8888');
 
 }
 

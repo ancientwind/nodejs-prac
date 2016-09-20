@@ -1,4 +1,4 @@
-let server = require('./server_prac');
+let server = require('./server-prac');
 
 let route = require('./router');
 
